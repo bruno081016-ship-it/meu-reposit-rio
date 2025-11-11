@@ -9,7 +9,4 @@ if prestracao <= minimo:
     print("Emprestimo pode ser aprovado. ")
 else:
     print("Emprestimo negado. ")
-print(input("Deseja fazer uma nova consulta ? Digite S/N: "))
-while True:
-    break
-    continue
+print(input("Deseja fazer uma nova consulta ? Digite S/N: "))
